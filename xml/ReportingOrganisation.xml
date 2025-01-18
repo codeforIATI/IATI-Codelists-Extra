@@ -21285,6 +21285,16 @@
             <codeforiati:registry-identifier>sparc_iati</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>PK-NTN-2158581-4</code>
+            <name>
+                <narrative>Shirkat Gah-Women's Resource Centre</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Pakistan</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>shirkatgah</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NL-KVK-81042582</code>
             <name>
                 <narrative>Netherlands Advisory Board on Impact Investing</narrative>
